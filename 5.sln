@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5", "5.vcxproj", "{29ACDD3D-32AE-4C64-AF15-8A9955A8FBD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}"
+	ProjectSection(SolutionItems) = preProject
+		carpet.obj = carpet.obj
+		stb_image.h = stb_image.h
+		table.obj = table.obj
+		tiny_obj_loader.h = tiny_obj_loader.h
+		vase.obj = vase.obj
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29ACDD3D-32AE-4C64-AF15-8A9955A8FBD7}.Debug|x64.ActiveCfg = Debug|x64
+		{29ACDD3D-32AE-4C64-AF15-8A9955A8FBD7}.Debug|x64.Build.0 = Debug|x64
+		{29ACDD3D-32AE-4C64-AF15-8A9955A8FBD7}.Debug|x86.ActiveCfg = Debug|Win32
+		{29ACDD3D-32AE-4C64-AF15-8A9955A8FBD7}.Debug|x86.Build.0 = Debug|Win32
+		{29ACDD3D-32AE-4C64-AF15-8A9955A8FBD7}.Release|x64.ActiveCfg = Release|x64
+		{29ACDD3D-32AE-4C64-AF15-8A9955A8FBD7}.Release|x64.Build.0 = Release|x64
+		{29ACDD3D-32AE-4C64-AF15-8A9955A8FBD7}.Release|x86.ActiveCfg = Release|Win32
+		{29ACDD3D-32AE-4C64-AF15-8A9955A8FBD7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4171CA9-30B5-4836-836A-D683E559404C}
+	EndGlobalSection
+EndGlobal
